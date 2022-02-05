@@ -25,7 +25,7 @@ function show_day_night_mode()
 
         mp.msg.info(string.format("Change IR light mode"))
         mp.osd_message(string.format("Change IR Light mode"))
-        mp.commandv("run", "python3", "/home/x/Desktop/aosripcamstapo.py", arg)
+        mp.commandv("run", "python3", "script.py", arg)
 
 end
 
