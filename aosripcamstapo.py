@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 from pytapo import Tapo
+
 arg = sys.argv[1]
  
 user = ""
