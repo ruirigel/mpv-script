@@ -17,6 +17,3 @@ pytapo: https://github.com/JurajNyiri/pytapo
 <br/>
 Watch the video example https://www.youtube.com/watch?v=tFgwjiOdSPQ
 <p>
- ```
-npm install @bolt/components-text
-```
