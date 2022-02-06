@@ -7,9 +7,9 @@ To run mpv player via terminal for one or all ip cameras example:
 <br/>
 $ nohup mpv rtsp://login:pass@address:port/stream2 > /dev/null 2>&1&
 <p>
-or we can create a link to application with command for two ip cameras example:
+or we can create a link to application with command for three ip cameras example:
 <br/>
-mpv rtsp://login:pass@address:port/stream2 | mpv rtsp://login:pass@address:port/stream2
+mpv rtsp://login:pass@address:port/stream2 | mpv rtsp://login:pass@address:port/stream2 | mpv rtsp://login:pass@address:port/stream2
 <p>
 mvp player: https://github.com/mpv-player
 <br/>
