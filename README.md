@@ -7,4 +7,4 @@ mvp player: https://github.com/mpv-player
 <p>
 pytapo: https://github.com/JurajNyiri/pytapo
 <p>
- Watch the video examplehttps://www.youtube.com/watch?v=tFgwjiOdSPQ
+Watch the video example https://www.youtube.com/watch?v=tFgwjiOdSPQ
